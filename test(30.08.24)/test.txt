@@ -1,0 +1,24 @@
+1.Polymorphism
+
+Polymorphism is a one of the oops concept , it can perform a single action in different ways.
+This polymorphism have the 2 types casting
+1>upcasting 
+2>downcasting
+
+
+2.Constructor chaining 
+
+
+3.Inheritance 
+
+Inheritance also one of the important feature in the oops concept . It can be inherit to one class to another class
+The parent class can inherit the child class.
+It can be used the keyword is extend.
+
+
+
+
+4. Encapsulation
+
+The Encapsulation is also one of the oops concept . it can use the private the data members and getter and setter methods.
+
